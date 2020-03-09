@@ -1,0 +1,18 @@
+{
+  "name": "codalyze",
+  "version": "1.0.0",
+  "description": "Node Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.3.1",
+    "count-lines-in-file": "^1.1.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "read-last-lines": "^1.7.2"
+  }
+}
